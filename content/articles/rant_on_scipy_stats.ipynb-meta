@@ -1,0 +1,7 @@
+Title: A rant on scipy.stats
+Slug: rant_on_scipy_stats
+Date: 2017-06-15 21:48
+Category: posts
+Tags: python, stats, rants
+author: Clément Chastagnol
+Summary: A rant on the parametrization of statistical distributions in scipy.
