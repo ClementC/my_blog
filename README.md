@@ -1,2 +1,2 @@
-# clementc.github.io-src
+# My blog
 Sources for my blog
