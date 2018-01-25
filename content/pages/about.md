@@ -5,7 +5,7 @@ slug: about
 
 <br/>
 Hi! My name is Clément Chastagnol.
-I'm a French, Paris-based software engineer, currently working at [C-Radar](http://c-radar.com/) on Machine Learning and NLP related stuff.
+I'm a French, Paris-based software engineer, currently working at [Sidetrade](http://uk.sidetrade.com/) on the [C-Radar](http://c-radar.com/) product, focusing on Machine Learning and NLP related stuff.
 
 I am also an amateur musician, playing keyboards with [Victoria Caffè](http://www.victoriacaffe.fr/).
 
