@@ -58,7 +58,7 @@ ARTICLE_DIRS = ['articles']
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-ABOUT_PAGE = '/pages/about.html'
+#ABOUT_PAGE = '/pages/about.html'
 #TWITTER_USERNAME = 'herrdoktorfunk'
 GITHUB_USERNAME = 'ClementC'
 SHOW_ARCHIVES = True
