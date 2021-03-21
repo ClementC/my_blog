@@ -68,3 +68,4 @@ MENUITEMS = [("About", "/pages/about.html"), ("Posts", "/category/posts.html"), 
 
 THEME = '../pelican-blue'
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
