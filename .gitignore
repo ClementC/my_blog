@@ -57,3 +57,6 @@ myblog/
 # vim temporary files
 *.swp
 *.swo
+
+# Mac stuff
+*.DS_STORE
