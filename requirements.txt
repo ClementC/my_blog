@@ -36,7 +36,7 @@ parso==0.3.1
 pelican==3.7.1
 pexpect==4.6.0
 pickleshare==0.7.4
-Pillow==3.4.2
+Pillow==8.2.0
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
 ptyprocess==0.6.0
