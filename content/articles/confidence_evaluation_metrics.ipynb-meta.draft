@@ -1,0 +1,7 @@
+Title: Confidence intervals for evaluation metrics
+Slug: confidence_evaluation_metrics
+Date: 2024-03-08 14:25
+Category: posts
+Tags: python, stats
+Author: Clément Chastagnol
+Summary: Implementation of an alternative approach to confidence intervals for evaluation metrics of ML models
