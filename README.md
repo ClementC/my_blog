@@ -11,7 +11,7 @@ git clone https://github.com/ClementC/my_blog        # Actual repo for the blog 
 cd my_blog
 git submodule init
 git submodule update
-conda create --name my_blog python=3.5 -y
+conda create --name my_blog python=3.8 -y
 conda activate my_blog
 pip install -r requirements.txt
 ```
