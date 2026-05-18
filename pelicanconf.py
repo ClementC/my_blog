@@ -64,7 +64,13 @@ GITHUB_USERNAME = 'ClementC'
 SHOW_ARCHIVES = True
 SHOW_FEED = False  # Need to address large feeds
 
-MENUITEMS = [("About", "/pages/about.html"), ("Posts", "/category/posts.html"), ("Archive", "/archives.html")]
+MENUITEMS = [
+    ("About", "/pages/about.html"),
+    ("Writing", "/pages/writing.html"),
+    ("Music", "/pages/music.html"),
+    ("Posts", "/category/posts.html"),
+    # ("Archive", "/archives.html")
+]
 
 THEME = '../pelican-blue'
 DISPLAY_CATEGORIES_ON_MENU = False

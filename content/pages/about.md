@@ -10,4 +10,15 @@ I currently work at [Sacem](https://www.sacem.fr/) on data systems for music rig
 
 I write about data science, machine learning, engineering practice, conferences, and occasionally music.
 
-Thanks for visiting!
+## How I can help
+
+I occasionally help teams with:
+
+- technical hiring for data / ML profiles;
+- technical tests and interview design;
+- data-quality and analytics reviews;
+- ML / data engineering due diligence;
+- mentoring senior or transitioning data practitioners;
+- translating research-heavy ideas into practical systems.
+
+If this sounds useful, feel free to reach out.
