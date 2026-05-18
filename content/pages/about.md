@@ -1,12 +1,13 @@
 title: About
 slug: about
 
-<img src="/images/clement.png" align="left" width="150" style="padding-right:20px;"/>
+<img src="/images/clement_2025.jpeg" align="left" width="150" style="margin-right:20px; margin-top:20px; border-radius: 50%; object-fit: cover;"/>
 
 <br/>
-Hi! My name is Clément Chastagnol.
-I'm a French, Paris-based software engineer, currently working at [IQVIA](https://www.iqvia.com/) (previously [Alan](https://alan.com/) and [Sidetrade](https://www.sidetrade.com/)), focusing on data science for health data.
+Hi, I’m Clément Chastagnol, a Paris-based senior data practitioner with a background in applied machine learning, data engineering, and scientific communication.
 
-I am also an amateur musician: I play keyboards with [Victoria Caffè](http://www.victoriacaffe.fr/), and sometimes record [small things on my own](https://soundcloud.com/herr-doktor-funk/tracks).
+I currently work at [Sacem](https://www.sacem.fr/) on data systems for music rights and royalties. Previously, I worked in health data and B2B data products at [IQVIA](https://www.iqvia.com/), [Alan](https://alan.com/), [Sidetrade](https://www.sidetrade.com/), and Data Publica.
+
+I write about data science, machine learning, engineering practice, conferences, and occasionally music.
 
 Thanks for visiting!
