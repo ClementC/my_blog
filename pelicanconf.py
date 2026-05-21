@@ -67,6 +67,7 @@ SHOW_FEED = False  # Need to address large feeds
 MENUITEMS = [
     ("About", "/pages/about.html"),
     ("Writing", "/pages/writing.html"),
+    ("Teaching", "/pages/teaching.html"),
     ("Music", "/pages/music.html"),
     ("Posts", "/category/posts.html"),
     # ("Archive", "/archives.html")

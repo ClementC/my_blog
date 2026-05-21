@@ -8,12 +8,15 @@ Hi, I’m Clément Chastagnol, a Paris-based senior data practitioner with a bac
 
 I currently work at [Sacem](https://www.sacem.fr/) on data systems for music rights and royalties. Previously, I worked in health data and B2B data products at [IQVIA](https://www.iqvia.com/), [Alan](https://alan.com/), [Sidetrade](https://www.sidetrade.com/), and Data Publica.
 
+I also spend a fair amount of time teaching, training, and translating technical ideas for different audiences: students, data teams, business stakeholders, customers, partners, and executives.
+
 I write about data science, machine learning, engineering practice, conferences, and occasionally music.
 
 ## How I can help
 
 I occasionally help teams with:
 
+- AI literacy and strategy training for managers, executives, and domain experts;
 - technical hiring for data / ML profiles;
 - technical tests and interview design;
 - data-quality and analytics reviews;
