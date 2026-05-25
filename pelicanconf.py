@@ -26,9 +26,9 @@ AUTHOR_FEED_RSS = None
 #         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('linkedin', 'https://www.linkedin.com/in/clément-chastagnol-26b75611'),
+SOCIAL = (('linkedin', 'https://www.linkedin.com/in/clément-chastagnol'),
           ('github', 'https://github.com/ClementC'),
-          ('twitter', 'https://twitter.com/HerrDoktorFunk'),
+          #('twitter', 'https://twitter.com/HerrDoktorFunk'),
          )
 
 SIDEBAR_DIGEST = 'Computer Scientist and Musician'
