@@ -7,11 +7,11 @@ This page is a curated entry point. For the full chronological list, see the [po
 
 ## Data science, ML, and engineering
 
+- [Notes on DuckCon 7 🦆](/blog/2026/06/24/notes_on_DuckCon_7/)  
+  A selective recap of DuckCon 7, with thoughts on DuckLake, moving smaller PySpark workloads to DuckDB, local-first analytical applications, and how far simpler data architectures can take us.
+
 - [Notes on the PyData Paris 2025 conference](/blog/2026/03/12/notes_on_PyData_Paris_2025/)  
   Notes and takeaways from PyData Paris 2025, with a focus on tools, workflows, and talks I found useful enough to bring back to work.
-
-- [Notes on the PyData Paris 2024 conference](/blog/2024/10/23/notes_on_PyData_Paris_2024/)  
-  A personal recap of PyData Paris 2024, covering uncertainty, Arrow, business metrics, propensity score matching, MLOps, and the LLM/RAG wave.
 
 - [⚡️Trendbreak⚡️](/tag/trendbreak.html)  
   A 45-edition newsletter, running from 2021 to 2023.
